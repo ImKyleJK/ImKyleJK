@@ -16,7 +16,7 @@ jobs:
 
           # Options
           user: imkylejk
-          template: classic
+          template: terminal
           base: header, activity, community, repositories
           config_timezone: Europe/London
           config_twemoji: yes
