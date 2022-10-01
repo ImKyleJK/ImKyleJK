@@ -60,6 +60,8 @@
 <li>🎉 Fun Fact: 98% of developers admit to using Stackoverflow atleast once.</li>
 </ul>
 
+<img src="https://user-images.githubusercontent.com/61476690/193425830-078fdbf0-979d-44b2-9f33-e5f1f3112d6c.png" style="width:100%;"/>
+
 <img src="https://github.com/ImKyleJK/ImKyleJK/blob/main/github-metrics.svg">
 
 </div>
