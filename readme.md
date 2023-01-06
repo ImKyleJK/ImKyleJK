@@ -1,7 +1,5 @@
 <div style="display:block;margin:auto;padding:auto;align-content:center;width:100%;text-align:center;">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimkylejk1212%2Fhit-counter">
-<img src="https://user-images.githubusercontent.com/61476690/193425966-c02d4b89-5281-4e5b-9432-f378b604eb1f.png">
-<!-- https://user-images.githubusercontent.com/61476690/190868109-22cbd3d9-f2df-42b3-b7d9-7d5330cc2e8a.png -->
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white">
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white">
