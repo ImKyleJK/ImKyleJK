@@ -46,17 +46,14 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/ImKyleJK/BeClone">BeClone</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/FrogsterApp">Frogster</a>.</li>
 <li>🧐 Taking courses in <strong>Cyber Security</strong> and <strong>Software Development</strong>.</li>
 <li>🧐 Previously worked on <a href="https://pptr.me">Puppeteer</a>, <a href="https://frogster.app">Frogster</a>, <a href="https://github.com/ImKyleJK/Spotimage">Spotimage</a>, <a href="https://astria.cloud">Studently</a>, <a href="https://project-wizard.org/">ProjectWizard</a> + others.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ImKyleJK">Github</a>.</li>
 <li>📝 I regulary post random text on <a href="https://twitter.com/imkylejk">Twitter</a>.</li>
 <li>💬 Ping me about <strong>web applications & project ideas</strong>.</li>
-<li>🎉 Fun Fact: 98% of developers admit to using Stackoverflow atleast once.</li>
+<li>🎉 Fun Fact: I couldn't find a good fact :/</li>
 </ul>
-
-<img src="https://user-images.githubusercontent.com/61476690/193425830-078fdbf0-979d-44b2-9f33-e5f1f3112d6c.png" style="width:100%;"/>
-
 <img src="https://github.com/ImKyleJK/ImKyleJK/blob/main/github-metrics.svg">
 
 </div>
