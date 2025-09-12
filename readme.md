@@ -46,11 +46,10 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/HuddlApp">Huddl</a> (<a href="https://huddl.me">Visit Site</a>).</li>
-<li>🧐 Currently studying a HNC in Computing covering <strong>Cyber Security</strong>, <strong>Software Development</strong>, <strong>E-Commerce Websites</strong>, <strong>Ethical Hacking</strong>, <strong>System Troubleshooting</strong>, <strong>Database Design</strong> and <strong>Client Operating Systems</strong>.</li>
-<li>🧐 Previously worked on <a href="https://pptr.me">Puppeteer</a>, <a href="https://frogster.app">Frogster</a>, <a href="https://github.com/ImKyleJK/Spotimage">Spotimage</a>, <a href="https://project-wizard.org/">ProjectWizard</a> + others.</li>
+<li>🔭 I’m currently working on <a href="https://syntaxcafe.app">SyntaxCafe</a> (A Developer Focused Social Media & Job Listing Platform).</li>
+<li>🧐 Have studied a HNC in Computing covering <strong>Cyber Security</strong>, <strong>Software Development</strong>, <strong>E-Commerce Websites</strong>, <strong>Ethical Hacking</strong>, <strong>System Troubleshooting</strong>, <strong>Database Design</strong> and <strong>Client Operating Systems</strong>.</li>
+<li>🧐 Previously worked on <a href="https://pptr.me">Puppeteer</a>, <a href="https://frogster.app">Frogster</a>, <a href="https://project-wizard.org/">ProjectWizard</a> + others.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ImKyleJK">Github</a>.</li>
-<li>📝 I regulary post random text on <a href="https://twitter.com/imkylejk">Twitter</a>.</li>
 <li>💬 Message me about <strong>web applications & project ideas via PolyWork <a href="https://poly.me/official">poly.me/official</a></strong>.</li>
 <li>🎉 Fun Fact: I couldn't find a good fact :/</li>
 </ul>
