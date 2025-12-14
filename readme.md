@@ -8,6 +8,7 @@
 </div>
 
 ## What I'm Up To
+- ✨ A proud member of the Contributors Club <a href="https://contrib.club">Learn more here.</a>, helping push open source applications.
 - 🔭 Building <a href="https://network.camp">NetworkCamp</a>: monitor security, performance, and uptime with ease.
 - 🧠 Self-teaching <strong>Cyber Security</strong>, <strong>Software Development</strong>, <strong>E-Commerce</strong>, <strong>Ethical Hacking</strong>, <strong>System Troubleshooting</strong>, <strong>Database Design</strong>, and <strong>Client OS</strong>.
 - 🧭 Previously shipped <a href="https://transferto.app">TransferTo</a>, <a href="https://imkylejk.me">my site</a>, <a href="https://andysmobiledetailing.com/">Andy's Mobile Detailing</a>, and more.
