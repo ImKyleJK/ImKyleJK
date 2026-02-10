@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hey, I'm Kyle 👋</h1>
-  <p>Full-stack builder | Security curious | Always shipping and learning</p>
+  <h1>I'm Kyle Kozlowski👋</h1>
+  <p>Full-stack Developer | Always shipping and learning</p>
   <p>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimkylejk1212%2Fhit-counter" alt="Profile views" />
     <img src="https://img.shields.io/badge/Contributors_Club-December_2025-blueviolet?style=flat-square" alt="Contributors Club" />
@@ -9,9 +9,9 @@
 
 ## What I'm Up To
 - ✨ A proud member of the Contributors Club <a href="https://contrib.club">Learn more here.</a>, helping push open source applications.
-- 🔭 Building <a href="https://network.camp">NetworkCamp</a>: monitor security, performance, and uptime with ease.
-- 🧠 Self-teaching <strong>Cyber Security</strong>, <strong>Software Development</strong>, <strong>E-Commerce</strong>, <strong>Ethical Hacking</strong>, <strong>System Troubleshooting</strong>, <strong>Database Design</strong>, and <strong>Client OS</strong>.
-- 🧭 Previously shipped <a href="https://transferto.app">TransferTo</a>, <a href="https://imkylejk.me">my site</a>, <a href="https://andysmobiledetailing.com/">Andy's Mobile Detailing</a>, and more.
+- 🔭 Building <a href="https://tailwind.help">Tailwind Hell</a>: TailwindCSS components, website builder, and community snippets.
+- 🧠 Experience in <strong>Cyber Security</strong>, <strong>Software Development</strong>, <strong>E-Commerce</strong>, <strong>Ethical Hacking</strong>, <strong>System Troubleshooting</strong>, <strong>Database Design</strong>, and <strong>Client OS</strong>.
+- 🧭 Previously shipped <a href="https://transferto.app">TransferTo</a>, <a href="https://imkylejk.me">Personal Portfolio</a>, <a href="https://network.camp/">NetworkCamp</a>, and more.
 - 👨‍💻 Most of my projects live on <a href="https://github.com/ImKyleJK">GitHub</a>.
 
 ## Toolbox
