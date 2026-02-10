@@ -2,7 +2,7 @@
   <h1>I'm Kyle Kozlowski👋</h1>
   <p>Full-stack Developer | Always shipping and learning</p>
   <p>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimkylejk1212%2Fhit-counter" alt="Profile views" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimkylejk%2Fhit-counter" alt="Profile views" />
     <img src="https://img.shields.io/badge/Contributors_Club-December_2025-blueviolet?style=flat-square" alt="Contributors Club" />
   </p>
 </div>
