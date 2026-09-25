@@ -1,18 +1,20 @@
 <div align="center">
   <h1>I'm Kyle Kozlowski👋</h1>
-  <p>Full-stack Developer | Always shipping and learning</p>
+  <p>Developer | Always shipping and learning</p>
   <p>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimkylejk%2Fhit-counter" alt="Profile views" />
-    <img src="https://img.shields.io/badge/Contributors_Club-December_2025-blueviolet?style=flat-square" alt="Contributors Club" />
+    <img src="https://imkylejk.me/api/badges/api" alt="ImKyleJK.ME API Status Badge" />
   </p>
 </div>
 
+**Looking for more information about my work or future planned projects? Feel free to checkout [my blog](https://imkylejk.me/blog) on [my personal site](https://imkylejk.me)
+
 ## What I'm Up To
 - ✨ A proud member of the Contributors Club <a href="https://contrib.club">Learn more here.</a>, helping push open source applications.
-- 🔭 Building <a href="https://tailwind.help">Tailwind Hell</a>: TailwindCSS components, website builder, and community snippets.
+- 🔭 Building <a href="https://rotaaa.app">Rotaaa</a>: The all-in-one open source & free workforce planning and managment platform.
 - 🧠 Experience in <strong>Cyber Security</strong>, <strong>Software Development</strong>, <strong>E-Commerce</strong>, <strong>Ethical Hacking</strong>, <strong>System Troubleshooting</strong>, <strong>Database Design</strong>, and <strong>Client OS</strong>.
-- 🧭 Previously shipped <a href="https://transferto.app">TransferTo</a>, <a href="https://imkylejk.me">Personal Portfolio</a>, <a href="https://network.camp/">NetworkCamp</a>, and more.
-- 👨‍💻 Most of my projects live on <a href="https://github.com/ImKyleJK">GitHub</a>.
+- 🧭 Previously shipped <a href="https://transferto.app">TransferTo</a> (A Peer-To-Peer file transfer application), <a href="https://imkylejk.me">Personal Portfolio</a>, <a href="https://network.camp/">NetworkCamp</a> (A suite of network testing tools based in the browser), and more.
+- 👨‍💻 Most of my projects live on <a href="https://imkylejk.me/work">my site</a>.
 
 ## Toolbox
 
