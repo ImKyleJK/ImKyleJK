@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="64" viewBox="0 0 220 64" role="img" aria-label="RSS">
+<title>RSS</title>
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .on { fill: #fafafa; animation: light .45s cubic-bezier(.2,.7,.3,1) both; }
+  @keyframes light { from { fill: #18181b; } to { fill: #fafafa; } }
+  .fade { animation: rise .7s ease-out both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  .blink { animation: blink 1.1s steps(1) infinite 1.6s; }
+  @keyframes blink { 50% { fill: transparent; } }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<rect x="1" y="1" width="218" height="62" rx="12" fill="#09090b" stroke="#27272a" stroke-width="2"/>
+<path transform="translate(22.0 23.0) scale(0.7500)" fill="#fafafa" d="M19.199 24C19.199 13.467 10.533 4.8 0 4.8V0c13.165 0 24 10.835 24 24h-4.801zM3.291 17.415c1.814 0 3.293 1.479 3.293 3.295 0 1.813-1.485 3.29-3.301 3.29C1.47 24 0 22.526 0 20.71s1.475-3.294 3.291-3.295zM15.909 24h-4.665c0-6.169-5.075-11.245-11.244-11.245V8.09c8.727 0 15.909 7.184 15.909 15.91z"/>
+<text class="mono" x="52.0" y="38.5" font-size="17" letter-spacing="2" fill="#fafafa">RSS</text>
+<text class="mono" x="198.0" y="38.5" text-anchor="end" font-size="17" letter-spacing="0" fill="#71717a">↗</text>
+</svg>

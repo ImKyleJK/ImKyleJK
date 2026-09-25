@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Kyle Kozlowski: Freelance developer, UI designer &amp; infrastructure engineer.">
+<title>Kyle Kozlowski: Freelance developer, UI designer &amp; infrastructure engineer.</title>
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .on { fill: #18181b; animation: light .45s cubic-bezier(.2,.7,.3,1) both; }
+  @keyframes light { from { fill: #ececef; } to { fill: #18181b; } }
+  .fade { animation: rise .7s ease-out both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  .blink { animation: blink 1.1s steps(1) infinite 1.6s; }
+  @keyframes blink { 50% { fill: transparent; } }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="1" y="1" width="1198" height="398" rx="18" fill="#fafafa" stroke="#e4e4e7" stroke-width="2"/>
+<text class="mono" x="64.0" y="56.0" font-size="13" letter-spacing="2.6" fill="#71717a">IMKYLEJK</text>
+<text class="mono" x="1136.0" y="56.0" text-anchor="end" font-size="13" letter-spacing="2.6" fill="#71717a">SCOTLAND, UK</text>
+<pattern id="g14" x="67.0" y="92.0" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="6.5" cy="6.5" r="4.4" fill="#ececef"/></pattern>
+<rect x="67.0" y="92.0" width="1066.0" height="117.0" fill="url(#g14)"/>
+<circle class="on" style="animation-delay:0.016s" cx="86.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.080s" cx="138.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.016s" cx="86.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.064s" cx="125.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.016s" cx="86.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.048s" cx="112.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.016s" cx="86.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.032s" cx="99.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.016s" cx="86.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.048s" cx="112.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.016s" cx="86.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.064s" cx="125.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.016s" cx="86.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.080s" cx="138.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.112s" cx="164.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.176s" cx="216.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.112s" cx="164.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.176s" cx="216.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.128s" cx="177.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.160s" cx="203.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.144s" cx="190.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.144s" cx="190.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.144s" cx="190.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.144s" cx="190.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.208s" cx="242.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.208s" cx="242.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.208s" cx="242.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.208s" cx="242.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.208s" cx="242.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.208s" cx="242.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.208s" cx="242.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.224s" cx="255.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.240s" cx="268.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.256s" cx="281.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.272s" cx="294.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.304s" cx="320.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.320s" cx="333.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.336s" cx="346.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.352s" cx="359.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.368s" cx="372.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.304s" cx="320.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.304s" cx="320.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.304s" cx="320.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.320s" cx="333.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.336s" cx="346.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.352s" cx="359.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.304s" cx="320.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.304s" cx="320.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.304s" cx="320.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.320s" cx="333.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.336s" cx="346.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.352s" cx="359.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.368s" cx="372.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.432s" cx="424.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.496s" cx="476.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.432s" cx="424.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.480s" cx="463.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.432s" cx="424.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.464s" cx="450.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.432s" cx="424.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.448s" cx="437.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.432s" cx="424.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.464s" cx="450.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.432s" cx="424.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.480s" cx="463.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.432s" cx="424.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.496s" cx="476.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.544s" cx="515.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.560s" cx="528.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.576s" cx="541.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.528s" cx="502.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.592s" cx="554.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.528s" cx="502.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.592s" cx="554.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.528s" cx="502.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.592s" cx="554.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.528s" cx="502.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.592s" cx="554.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.528s" cx="502.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.592s" cx="554.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.544s" cx="515.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.560s" cx="528.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.576s" cx="541.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.624s" cx="580.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.640s" cx="593.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.656s" cx="606.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.672s" cx="619.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.688s" cx="632.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.688s" cx="632.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.672s" cx="619.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.656s" cx="606.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.640s" cx="593.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.624s" cx="580.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.624s" cx="580.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.640s" cx="593.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.656s" cx="606.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.672s" cx="619.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.688s" cx="632.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.720s" cx="658.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.720s" cx="658.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.720s" cx="658.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.720s" cx="658.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.720s" cx="658.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.720s" cx="658.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.720s" cx="658.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.736s" cx="671.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.752s" cx="684.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.768s" cx="697.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.784s" cx="710.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.832s" cx="749.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.848s" cx="762.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.864s" cx="775.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.816s" cx="736.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.880s" cx="788.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.816s" cx="736.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.880s" cx="788.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.816s" cx="736.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.880s" cx="788.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.816s" cx="736.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.880s" cx="788.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.816s" cx="736.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.880s" cx="788.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.832s" cx="749.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.848s" cx="762.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.864s" cx="775.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.912s" cx="814.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.976s" cx="866.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.912s" cx="814.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.976s" cx="866.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.912s" cx="814.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.976s" cx="866.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.912s" cx="814.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.944s" cx="840.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.976s" cx="866.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.912s" cx="814.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.944s" cx="840.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.976s" cx="866.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.912s" cx="814.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.944s" cx="840.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.976s" cx="866.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.928s" cx="827.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:0.960s" cx="853.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.024s" cx="905.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.040s" cx="918.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.056s" cx="931.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.072s" cx="944.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.008s" cx="892.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.008s" cx="892.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.024s" cx="905.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.040s" cx="918.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.056s" cx="931.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.072s" cx="944.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.072s" cx="944.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.008s" cx="892.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.024s" cx="905.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.040s" cx="918.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.056s" cx="931.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.104s" cx="970.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.168s" cx="1022.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.104s" cx="970.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.152s" cx="1009.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.104s" cx="970.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.136s" cx="996.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.104s" cx="970.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.120s" cx="983.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.104s" cx="970.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.136s" cx="996.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.104s" cx="970.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.152s" cx="1009.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.104s" cx="970.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.168s" cx="1022.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.216s" cx="1061.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.232s" cx="1074.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.248s" cx="1087.5" cy="111.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.232s" cx="1074.5" cy="124.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.232s" cx="1074.5" cy="137.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.232s" cx="1074.5" cy="150.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.232s" cx="1074.5" cy="163.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.232s" cx="1074.5" cy="176.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.216s" cx="1061.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.232s" cx="1074.5" cy="189.5" r="4.4"/>
+<circle class="on" style="animation-delay:1.248s" cx="1087.5" cy="189.5" r="4.4"/>
+<text class="sans fade" style="animation-delay:.9s" x="64" y="271" font-size="30" font-weight="600" letter-spacing="-0.4" fill="#18181b">Freelance developer, UI designer &amp; infrastructure engineer.</text>
+<text class="mono fade" style="animation-delay:1.15s" x="64" y="313" font-size="18" fill="#71717a"><tspan fill="#059669">$</tspan> self-taught · shipping small, sharp tools · homelab after hours <tspan class="blink" fill="#059669">▋</tspan></text>
+<line x1="64" x2="1136" y1="342" y2="342" stroke="#d4d4d8" stroke-width="1" stroke-dasharray="2 6"/>
+<g class="fade" style="animation-delay:1.4s">
+<text class="mono" x="64.0" y="370.0" font-size="13" letter-spacing="2.6" fill="#71717a">01  PRODUCT BUILD</text>
+<text class="mono" x="600.0" y="370.0" text-anchor="middle" font-size="13" letter-spacing="2.6" fill="#71717a">02  INTERFACE DESIGN</text>
+<text class="mono" x="1136.0" y="370.0" text-anchor="end" font-size="13" letter-spacing="2.6" fill="#71717a">03  INFRA &amp; RESCUE</text>
+</g>
+</svg>

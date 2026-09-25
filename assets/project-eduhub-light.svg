@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-label="EduHub (live): A personal study hub for coursework and notes, built around studying online with UHI. Built with study platform.">
+<title>EduHub (live): A personal study hub for coursework and notes, built around studying online with UHI. Built with study platform.</title>
+<style>
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .on { fill: #18181b; animation: light .45s cubic-bezier(.2,.7,.3,1) both; }
+  @keyframes light { from { fill: #ececef; } to { fill: #18181b; } }
+  .fade { animation: rise .7s ease-out both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  .blink { animation: blink 1.1s steps(1) infinite 1.6s; }
+  @keyframes blink { 50% { fill: transparent; } }
+  
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="1" y="1" width="558" height="298" rx="18" fill="#fafafa" stroke="#e4e4e7" stroke-width="2"/>
+<text class="mono" x="32.0" y="46.0" font-size="13" letter-spacing="2.6" fill="#71717a">04</text>
+<circle cx="475.5" cy="41.5" r="4" fill="#059669"/>
+<text class="mono" x="528.0" y="46.0" text-anchor="end" font-size="13" letter-spacing="2.2" fill="#059669">LIVE</text>
+<pattern id="g24" x="32.0" y="66.0" width="6.8" height="6.8" patternUnits="userSpaceOnUse"><circle cx="3.4" cy="3.4" r="2.35" fill="#ececef"/></pattern>
+<rect x="32.0" y="66.0" width="489.6" height="47.6" fill="url(#g24)"/>
+<circle class="on" style="animation-delay:0.100s" cx="35.4" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.120s" cx="42.2" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.140s" cx="49.0" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.160s" cx="55.8" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.180s" cx="62.6" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.100s" cx="35.4" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.100s" cx="35.4" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.100s" cx="35.4" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.120s" cx="42.2" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.140s" cx="49.0" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.160s" cx="55.8" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.100s" cx="35.4" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.100s" cx="35.4" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.100s" cx="35.4" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.120s" cx="42.2" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.140s" cx="49.0" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.160s" cx="55.8" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.180s" cx="62.6" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.220s" cx="76.2" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.240s" cx="83.0" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.260s" cx="89.8" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.280s" cx="96.6" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.220s" cx="76.2" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.300s" cx="103.4" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.220s" cx="76.2" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.300s" cx="103.4" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.220s" cx="76.2" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.300s" cx="103.4" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.220s" cx="76.2" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.300s" cx="103.4" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.220s" cx="76.2" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.300s" cx="103.4" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.220s" cx="76.2" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.240s" cx="83.0" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.260s" cx="89.8" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.280s" cx="96.6" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.340s" cx="117.0" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.420s" cx="144.2" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.340s" cx="117.0" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.420s" cx="144.2" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.340s" cx="117.0" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.420s" cx="144.2" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.340s" cx="117.0" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.420s" cx="144.2" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.340s" cx="117.0" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.420s" cx="144.2" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.340s" cx="117.0" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.420s" cx="144.2" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.360s" cx="123.8" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.380s" cx="130.6" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.400s" cx="137.4" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.460s" cx="157.8" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.540s" cx="185.0" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.460s" cx="157.8" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.540s" cx="185.0" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.460s" cx="157.8" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.540s" cx="185.0" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.460s" cx="157.8" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.480s" cx="164.6" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.500s" cx="171.4" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.520s" cx="178.2" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.540s" cx="185.0" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.460s" cx="157.8" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.540s" cx="185.0" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.460s" cx="157.8" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.540s" cx="185.0" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.460s" cx="157.8" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.540s" cx="185.0" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.580s" cx="198.6" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.660s" cx="225.8" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.580s" cx="198.6" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.660s" cx="225.8" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.580s" cx="198.6" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.660s" cx="225.8" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.580s" cx="198.6" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.660s" cx="225.8" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.580s" cx="198.6" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.660s" cx="225.8" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.580s" cx="198.6" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.660s" cx="225.8" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.600s" cx="205.4" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.620s" cx="212.2" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.640s" cx="219.0" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.700s" cx="239.4" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.720s" cx="246.2" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.740s" cx="253.0" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.760s" cx="259.8" cy="69.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.700s" cx="239.4" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.780s" cx="266.6" cy="76.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.700s" cx="239.4" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.780s" cx="266.6" cy="83.0" r="2.35"/>
+<circle class="on" style="animation-delay:0.700s" cx="239.4" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.720s" cx="246.2" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.740s" cx="253.0" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.760s" cx="259.8" cy="89.8" r="2.35"/>
+<circle class="on" style="animation-delay:0.700s" cx="239.4" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.780s" cx="266.6" cy="96.6" r="2.35"/>
+<circle class="on" style="animation-delay:0.700s" cx="239.4" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.780s" cx="266.6" cy="103.4" r="2.35"/>
+<circle class="on" style="animation-delay:0.700s" cx="239.4" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.720s" cx="246.2" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.740s" cx="253.0" cy="110.2" r="2.35"/>
+<circle class="on" style="animation-delay:0.760s" cx="259.8" cy="110.2" r="2.35"/>
+<text class="sans" x="32" y="160" font-size="20" fill="#3f3f46">A personal study hub for coursework and notes,</text>
+<text class="sans" x="32" y="189" font-size="20" fill="#3f3f46">built around studying online with UHI.</text>
+<line x1="32" x2="528" y1="244" y2="244" stroke="#d4d4d8" stroke-width="1" stroke-dasharray="2 6"/>
+<text class="mono" x="32.0" y="274.0" font-size="12" letter-spacing="1.6" fill="#71717a">STUDY PLATFORM</text>
+<text class="mono" x="528.0" y="274.0" text-anchor="end" font-size="12" letter-spacing="1.6" fill="#18181b">LEARN.IMKYLEJK.ME ↗</text>
+</svg>
