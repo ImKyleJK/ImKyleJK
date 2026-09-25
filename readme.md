@@ -2,9 +2,20 @@
   <h1>I'm Kyle Kozlowski👋</h1>
   <p>Developer | Always shipping and learning</p>
   <p>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimkylejk%2Fhit-counter" alt="Profile views" />
+    <img src="https://imkylejk.me/api/badges/frontend" alt="ImKyleJK.ME FrontEnd Status Badge" />
     <img src="https://imkylejk.me/api/badges/api" alt="ImKyleJK.ME API Status Badge" />
+    <img src="https://imkylejk.me/api/badges/database" alt="ImKyleJK.ME Database Status Badge" />
   </p>
+  <p>
+    <img src="https://imkylejk.me/api/badges/minecraft_java" alt="ImKyleJK.ME HNCMC Java Status Badge" />
+    <img src="https://imkylejk.me/api/badges/minecraft_bedrock" alt="ImKyleJK.ME HNCMC Bedrock Status Badge" />
+  </p>
+  <p>
+    <img src="https://imkylejk.me/api/badges/network_internet" alt="ImKyleJK.ME ISP Status Badge" />
+    <img src="https://imkylejk.me/api/badges/network_gateway" alt="ImKyleJK.ME NetGateway Status Badge" />
+    <img src="https://imkylejk.me/api/badges/network_access_points" alt="ImKyleJK.ME AP Status Badge" />
+  </p>
+
 </div>
 
 **Looking for more information about my work or future planned projects? Feel free to checkout [my blog](https://imkylejk.me/blog) on [my personal site](https://imkylejk.me)
