@@ -1,4 +1,4 @@
-![](https://github-visitor-counter-tau.vercel.app/api?username=ImKyleJK&displayMode=miniCounter&theme=github_dark)
+![](https://komarev.com/ghpvc/?username=imkylejk&style=for-the-badge)
 <a href="https://imkylejk.me"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/ImKyleJK/ImKyleJK/raw/main/assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://github.com/ImKyleJK/ImKyleJK/raw/main/assets/hero-light.svg"><img src="https://github.com/ImKyleJK/ImKyleJK/raw/main/assets/hero-dark.svg" alt="Kyle Kozlowski: Freelance developer, UI designer &amp; infrastructure engineer." width="100%"></picture></a>
 
 <p>
